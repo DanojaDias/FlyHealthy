@@ -1,5 +1,5 @@
 # FlyHealthy
 
-A web site that shows the lowest risky path to reduce the risk of flying throughout the world.
+A web site that shows the lowest risky and shortest path to travel reducing the risk of getting dieseases when flying throughout the world.
 
 
